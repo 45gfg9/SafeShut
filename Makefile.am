@@ -9,4 +9,4 @@ clean-local:
 	@rm src/Makefile.in src/Makefile
 	@rm include/Makefile.in include/Makefile
 	@rm libtool
-	@rm aclocal.m4 Makefile
+	@rm aclocal.m4 Makefile.in Makefile
